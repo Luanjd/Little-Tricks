@@ -5,3 +5,5 @@ Including different contents helping things easier
 https://zhuanlan.zhihu.com/p/22252270
 #### XML解析方法
 https://www.jianshu.com/p/cf6fa10045a6
+#### hyperopt调参新方法
+https://zhuanlan.zhihu.com/p/276601891
