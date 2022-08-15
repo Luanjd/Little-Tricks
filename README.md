@@ -9,3 +9,5 @@ https://www.jianshu.com/p/cf6fa10045a6
 https://zhuanlan.zhihu.com/p/276601891
 #### dlib安装
 https://blog.csdn.net/qq_53396586/article/details/124620293
+### Batch Normalization
+https://zhuanlan.zhihu.com/p/93643523
