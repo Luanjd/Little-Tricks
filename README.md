@@ -11,3 +11,5 @@ https://zhuanlan.zhihu.com/p/276601891
 https://blog.csdn.net/qq_53396586/article/details/124620293
 ### Batch Normalization
 https://zhuanlan.zhihu.com/p/93643523
+### sql统计连续登录天数 最近和历史最长
+https://cloud.tencent.com/developer/article/1614163
