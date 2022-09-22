@@ -13,3 +13,5 @@ https://blog.csdn.net/qq_53396586/article/details/124620293
 https://zhuanlan.zhihu.com/p/93643523
 ### sql统计连续登录天数 最近和历史最长
 https://cloud.tencent.com/developer/article/1614163
+### xgboost, gbdt, rf 优缺点 gbdt构建特征
+https://blog.csdn.net/qq_28031525/article/details/70207918?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-70207918-blog-72588048.t5_download_50w&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-70207918-blog-72588048.t5_download_50w&utm_relevant_index=5
